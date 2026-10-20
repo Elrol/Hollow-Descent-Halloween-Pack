@@ -1,7 +1,7 @@
 {
-	"name": "Example",
-	"desc": "Just an example pack",
-	"id": "example",
+	"name": "Halloween Pack",
+	"desc": "A Halloween themed data pack",
+	"id": "halloween",
 	"author": "Elrol",
 	"version": "1.0.0",
 	"min_game_version": "1.0.0",
