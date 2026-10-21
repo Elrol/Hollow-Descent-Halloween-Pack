@@ -1,0 +1,21 @@
+{
+	"dimensions": [1,1],
+	"layout": [
+		"001         300",
+		"008         400",
+		"129         !23",
+		"       /       ",
+		"       P       ",
+		"               ",
+		"76@         #65",
+		"008         400",
+		"007         500"
+	],
+	"keys": {},
+	"exits": [
+		{ "segments": [0,0], "direction": "north"},
+		{ "segments": [0,0], "direction": "south"},
+		{ "segments": [0,0], "direction": "east"},
+		{ "segments": [0,0], "direction": "west"}
+	]
+}

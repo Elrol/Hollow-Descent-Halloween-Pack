@@ -1,0 +1,26 @@
+{
+	"footprint": [" O ", "OOO", " O "],
+	"dimensions": [3, 3],
+	"layout": [
+		"X   X",
+		" X/X ",
+		" /X/ ",
+		" X/X ",
+		"X   X"
+	],
+	"keys": {},
+	"exits": [
+		{ "segments": [0,1], "direction": "north"},
+		{ "segments": [1,0], "direction": "north"},
+		{ "segments": [2,1], "direction": "north"},
+		{ "segments": [0,1], "direction": "south"},
+		{ "segments": [1,2], "direction": "south"},
+		{ "segments": [2,1], "direction": "south"},
+		{ "segments": [1,0], "direction": "east"},
+		{ "segments": [2,1], "direction": "east"},
+		{ "segments": [1,2], "direction": "east"},
+		{ "segments": [1,0], "direction": "west"},
+		{ "segments": [0,1], "direction": "west"},
+		{ "segments": [1,2], "direction": "west"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"texture": "user://packs/halloween/assets/tilemaps/level_one_tile_map.png",
+	"atlas_coords": [0,1],
+	"is_solid": true,
+	"map_color": [0.3, 0.3, 0.3],
+	"tile_tags": {
+		"w_wall_f1": 1
+	}
+}

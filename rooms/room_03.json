@@ -1,0 +1,13 @@
+{
+	"dimensions": [1,1],
+	"layout": [
+		"/",
+		"P"
+	],
+	"keys": {},
+	"exits": [
+		{ "segments": [0,0], "direction": "north"},
+		{ "segments": [0,0], "direction": "east"},
+		{ "segments": [0,0], "direction": "south"}
+	]
+}

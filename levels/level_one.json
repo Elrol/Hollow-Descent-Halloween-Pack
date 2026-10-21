@@ -1,0 +1,19 @@
+{
+	"path_length": 10,
+	"starting_pool": {
+		"halloween:starting/room_01": 1
+	},
+	"room_pool": {
+		"halloween:room_01": 1,
+		"halloween:room_02": 1,
+		"halloween:room_03": 1,
+		"halloween:3x3/room_01": 1,
+		"halloween:2x2/room_01": 1
+	},
+	"ending_pool": {
+		"halloween:ending/test_ending_01": 1
+	},
+	"level_tags": {
+		"level_one": 1
+	}
+}

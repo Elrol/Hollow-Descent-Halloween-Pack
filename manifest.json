@@ -3,10 +3,35 @@
 	"desc": "A Halloween themed data pack",
 	"id": "halloween",
 	"author": "Elrol",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"min_game_version": "1.0.0",
 	"license": "N/A",
 	"dependencies": [],
-	"levels": [],
-	"default_tile_mappings": {}
+	"levels": [
+		{
+			"halloween:level_one": 1
+		}
+	],
+	"default_tile_mappings": {
+		".": "halloween:level_one/floors/clean",
+		"X": "halloween:rock",
+		"O": "halloween:hole",
+		
+		"0": "halloween:level_one/roofs/clean",
+		"1": "halloween:level_one/walls/corner_north_west",
+		"2": "halloween:level_one/walls/wall_north",
+		"3": "halloween:level_one/walls/corner_north_east",
+		"4": "halloween:level_one/walls/wall_east",
+		"5": "halloween:level_one/walls/corner_south_east",
+		"6": "halloween:level_one/walls/wall_south",
+		"7": "halloween:level_one/walls/corner_south_west",
+		"8": "halloween:level_one/walls/wall_west",
+		"9": "halloween:level_one/walls/outer_corner_north_west",
+		"!": "halloween:level_one/walls/outer_corner_north_east",
+		"@": "halloween:level_one/walls/outer_corner_south_west",
+		"#": "halloween:level_one/walls/outer_corner_south_east",
+		
+		"/": "halloween:level_one/buttons/up",
+		"*": "halloween:level_one/buttons/down"
+	}
 }

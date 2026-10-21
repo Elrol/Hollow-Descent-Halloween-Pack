@@ -1,0 +1,16 @@
+{
+	"footprint": ["O", "O"],
+	"dimensions": [1,2],
+	"layout": [
+		"  X/X  ",
+		"X  P  X",
+		"  X X  "
+	],
+	"keys": {},
+	"exits": [
+		{ "segments": [0,0], "direction": "north"},
+		{ "segments": [0,1], "direction": "south"},
+		{ "segments": [0,0], "direction": "west"}
+	],
+	"room_tags": {}
+}
