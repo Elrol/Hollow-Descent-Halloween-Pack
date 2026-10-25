@@ -1,12 +1,17 @@
 {
+	"type": "room",
+	"id": "halloween:ending/test_ending_01",
 	"dimensions": [1,1],
 	"layout": [
-		"  P  ",
-		"OOOOO",
-		"OOOOO",
-		"  /  ",
-		"OOOOO",
-		"OOOOO"
+		"122222222222223",
+		"8             4",
+		"8    OOOOO    4",
+		"8    OOOOO    4",
+		"8      /      4",
+		"8    OOOOO    4",
+		"8    OOOOO    4",
+		"8             4",
+		"766666666666665"
 	],
 	"keys": {},
 	"exits": [

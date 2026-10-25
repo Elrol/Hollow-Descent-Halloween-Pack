@@ -1,10 +1,13 @@
 {
+	"type": "tile",
+	"id": "halloween:level_one/floors/clean",
 	"texture": "user://packs/halloween/assets/tilemaps/level_one_tile_map.png",
 	"atlas_coords": [1,1],
 	"is_solid": false,
 	"map_color": [0.3, 0.3, 0.3],
 	"tile_tags": {
-		"floor": 5,
-		"floor_f1": 5
-	}
+		"halloween_floor": 5,
+		"halloween_floor_f1": 5
+	},
+	"parameters": {}
 }

@@ -3,17 +3,17 @@
 	"desc": "A Halloween themed data pack",
 	"id": "halloween",
 	"author": "Elrol",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"min_game_version": "1.0.0",
 	"license": "N/A",
 	"dependencies": [],
 	"levels": [
 		{
-			"halloween:level_one": 1
+			"halloween:level_one": 10
 		}
 	],
 	"default_tile_mappings": {
-		".": "halloween:level_one/floors/clean",
+		" ": "halloween_floor",
 		"X": "halloween:rock",
 		"O": "halloween:hole",
 		

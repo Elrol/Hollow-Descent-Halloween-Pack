@@ -1,6 +1,12 @@
 {
+	"type": "tile",
+	"id": "halloween:level_one/buttons/up",
 	"texture": "user://packs/halloween/assets/tilemaps/level_one_tile_map.png",
 	"atlas_coords": [7,1],
 	"is_solid": false,
-	"map_color": [0.3, 0.3, 0.3]
+	"map_color": [0.3, 0.3, 0.3],
+	"tile_type": "button",
+	"parameters": {
+		"button_id": "halloween:level_one/default:up"
+	}
 }

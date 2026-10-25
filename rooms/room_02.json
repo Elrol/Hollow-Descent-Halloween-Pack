@@ -1,10 +1,18 @@
 {
+	"type": "room",
+	"id": "halloween:room_02",
 	"footprint": ["O", "O"],
 	"dimensions": [1,2],
 	"layout": [
-		"  X/X  ",
-		"X  P  X",
-		"  X X  "
+		"122222222222223",
+		"8             4",
+		"8             4",
+		"8     X X     4",
+		"8    X / X    4",
+		"8     X X     4",
+		"8             4",
+		"8             4",
+		"766666666666665"
 	],
 	"keys": {},
 	"exits": [

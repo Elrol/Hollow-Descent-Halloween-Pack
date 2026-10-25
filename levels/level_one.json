@@ -1,4 +1,6 @@
 {
+	"type": "level",
+	"id": "halloween:level_one",
 	"path_length": 10,
 	"starting_pool": {
 		"halloween:starting/room_01": 1

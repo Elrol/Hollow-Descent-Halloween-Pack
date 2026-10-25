@@ -1,6 +1,9 @@
 {
+	"type": "tile",
+	"id": "halloween:health_small",
 	"texture": "user://packs/halloween/assets/tilemaps/level_one_tile_map.png",
 	"atlas_coords": [0,3],
 	"is_solid": true,
-	"map_color": [0.3, 0.3, 0.3]
+	"map_color": [0.3, 0.3, 0.3],
+	"parameters": {}
 }

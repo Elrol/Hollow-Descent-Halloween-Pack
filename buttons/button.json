@@ -1,0 +1,6 @@
+{
+    "type": "button",
+    "id": "halloween:level_one/default",
+    "button_down": "halloween:level_one/buttons/down",
+    "button_up": "halloween:level_one/buttons/up"
+}
