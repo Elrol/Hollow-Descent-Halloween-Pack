@@ -4,12 +4,13 @@
 	"id": "halloween",
 	"author": "Elrol",
 	"version": "1.1.1",
-	"min_game_version": "1.0.0",
+	"min_game_version": "1.1.0",
+	"max_game_version": "",
 	"license": "N/A",
 	"dependencies": [],
 	"levels": [
 		{
-			"halloween:level_one": 10
+			"halloween:level_one": 1
 		}
 	],
 	"default_tile_mappings": {
